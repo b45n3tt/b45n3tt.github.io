@@ -2,7 +2,8 @@
 brian basnett studio repository
 all website data should go to gh-pages per gtp-4
 
-git checkout gh-pages : switches branches
+:site is located and set up from gh-pages. 
+git checkout gh-pages : switches branches (main & gh-pages)
    
   add files in this order:
 git add . = add all
